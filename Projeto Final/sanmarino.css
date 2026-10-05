@@ -1,0 +1,21 @@
+.cards {
+    width: 200px;
+    height: 325px;
+    background-color: rgb(98, 181, 229);
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 8%;
+    padding: 16px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1%;
+
+}
+
